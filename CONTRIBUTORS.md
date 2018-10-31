@@ -368,3 +368,8 @@
 - Place: Australia
 - Bio: Programmer
 - Github: [Jack Noordhuis](https://github.com/JackNoordhuis)
+
+#### Name: [Leandro Bitencourt](http://www.leandrobitencourt.com.br)
+- Place: Brazil
+- Bio: Programmer
+- Github: [Lavela](https://github.com/lavela)
