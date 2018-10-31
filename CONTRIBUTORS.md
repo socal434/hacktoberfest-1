@@ -368,3 +368,8 @@
 - Place: Australia
 - Bio: Programmer
 - Github: [Jack Noordhuis](https://github.com/JackNoordhuis)
+
+#### Name: [Petrov Egor](https://github.com/Sentoki)
+- Place: USSR
+- Bio: Programmer
+- Github: [Petrov Egor](https://github.com/Sentoki)
