@@ -368,3 +368,8 @@
 - Place: Australia
 - Bio: Programmer
 - Github: [Jack Noordhuis](https://github.com/JackNoordhuis)
+
+#### Name: [Dexter](https://github.com/dexter)
+- Place: Chez
+- Bio: Programmer
+- Github: [Dexter](https://github.com/dexter)
