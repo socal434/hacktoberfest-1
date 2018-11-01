@@ -368,6 +368,11 @@
 - Bio: Programmer
 - Github: [Jack Noordhuis](https://github.com/JackNoordhuis)
 
+#### Name: [Matty](https://github.com/MattyLaLuna)
+- Place: California, US
+- Bio: CS Student
+- GitHub: [Matty](https://github.com/MattyLaLuna)
+
 #### Name: [Dexter](https://github.com/dexter)
 - Place: Chez
 - Bio: Programmer
