@@ -369,6 +369,11 @@
 - Bio: Programmer
 - Github: [Jack Noordhuis](https://github.com/JackNoordhuis)
 
+#### Name: [Leandro Bitencourt](http://www.leandrobitencourt.com.br)
+- Place: Brazil
+- Bio: Programmer
+- Github: [Lavela](https://github.com/lavela)
+
 #### Name: [Petrov Egor](https://github.com/Sentoki)
 - Place: USSR
 - Bio: Programmer
