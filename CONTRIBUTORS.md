@@ -1,4 +1,4 @@
-﻿#### Name: [Mukhammad Akbar](https://codelatte.org/)
+#### Name: [Mukhammad Akbar](https://codelatte.org/)
 - Place: Indonesiea
 - Bio: Proudly Owner of [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
@@ -358,7 +358,6 @@
 - Bio: Student
 - Github: [TukangSihir](https://github.com/TukangSihir)
 
-
 #### Name: [Jonathan Cowling](https://github.com/cowlingj)
 - Place: UK
 - Bio: Student
@@ -373,3 +372,13 @@
 - Place: Chez
 - Bio: Programmer
 - Github: [Dexter](https://github.com/dexter)
+
+#### Name: [Leandro Bitencourt](http://www.leandrobitencourt.com.br)
+- Place: Brazil
+- Bio: Programmer
+- Github: [Lavela](https://github.com/lavela)
+
+#### Name: [Petrov Egor](https://github.com/Sentoki)
+- Place: USSR
+- Bio: Programmer
+- Github: [Petrov Egor](https://github.com/Sentoki)
