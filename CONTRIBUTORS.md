@@ -373,3 +373,8 @@
 - Place: Brazil
 - Bio: Programmer
 - Github: [Lavela](https://github.com/lavela)
+
+#### Name: [Petrov Egor](https://github.com/Sentoki)
+- Place: USSR
+- Bio: Programmer
+- Github: [Petrov Egor](https://github.com/Sentoki)
