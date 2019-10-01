@@ -392,3 +392,8 @@
 - Place: San Fernando, Pampanga, Philippines
 - Bio: WIP Full Stack Developer.
 - GitHub: [Genesis Gabiola](https://github.com/genesisgabiola)
+
+#### Name: [Kumuthu Gamage](https://github.com/mr-bunn-y)
+- Place: Galle, Sri Lanka
+- Bio: Student
+- GitHub: [Kumuthu Gamage](https://github.com/mr-bunn-y)
