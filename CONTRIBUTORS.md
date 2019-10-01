@@ -392,3 +392,8 @@
 - Place: San Fernando, Pampanga, Philippines
 - Bio: WIP Full Stack Developer.
 - GitHub: [Genesis Gabiola](https://github.com/genesisgabiola)
+
+#### Name: [Arshdeep](https://github.com/Arshrock)
+- Place: Jalandhar, Punjab, India
+- Bio: Full Stack Developer.
+- GitHub: [Arshrock](https://github.com/Arshrock)
