@@ -1,4 +1,4 @@
-# HACKTOBERFEST 2018 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# HACKTOBERFEST 2019 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/abaykan/)
 [![GitHub issues](https://img.shields.io/github/issues/abaykan/hacktoberfest.svg)](https://github.com/abaykan/hacktoberfest/issues)
 [![HitCount](http://hits.dwyl.io/abaykan/hacktoberfest.svg)](http://hits.dwyl.io/abaykan/hacktoberfest)
@@ -19,10 +19,7 @@
 </pre>
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing! Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
-This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator. Actually, this repository was initially created for the 2018 Hacktoberfest as a half joke, half serious census.
-
-## What is Hacktoberfest?
-All about HACKTOBERFEST can you read in [here](https://codelatte.org/hacktoberfest-2018/) or from it's [Official Site](https://hacktoberfest.digitalocean.com/).
+This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator. Actually, this repository wa
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
