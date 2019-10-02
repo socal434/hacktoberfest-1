@@ -393,6 +393,11 @@
 - Bio: WIP Full Stack Developer.
 - GitHub: [Genesis Gabiola](https://github.com/genesisgabiola)
 
+#### Name: [Kumuthu Gamage](https://github.com/mr-bunn-y)
+- Place: Galle, Sri Lanka
+- Bio: Student
+- GitHub: [Kumuthu Gamage](https://github.com/mr-bunn-y)
+
 #### Name: [Arshdeep](https://github.com/Arshrock)
 - Place: Jalandhar, Punjab, India
 - Bio: Full Stack Developer.
