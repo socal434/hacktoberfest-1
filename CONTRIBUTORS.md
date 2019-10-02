@@ -1,6 +1,6 @@
 #### Name: [Mukhammad Akbar](https://codelatte.org/)
 - Place: Indonesiea
-- Bio: Proudly Owner of [Codelatte Indonesia](https://github.com/c0delatte).
+- Bio: [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
 
 #### Name: [Egi Nugraha](https://eginugraha.com/)
@@ -397,3 +397,18 @@
 - Place: Jalandhar, Punjab, India
 - Bio: Full Stack Developer.
 - GitHub: [Kartik Tyagi](https://github.com/genialkartik)
+
+#### Name: [Kumuthu Gamage](https://github.com/mr-bunn-y)
+- Place: Galle, Sri Lanka
+- Bio: Student
+- GitHub: [Kumuthu Gamage](https://github.com/mr-bunn-y)
+
+#### Name: [Arshdeep](https://github.com/Arshrock)
+- Place: Jalandhar, Punjab, India
+- Bio: Full Stack Developer.
+- GitHub: [Arshrock](https://github.com/Arshrock)
+
+#### Name: [Suvink](https://github.com/suvink)
+- Place: Sri Lanka
+- Bio: Full Stack Developer, GCP fan.
+- GitHub: [Genesis Gabiola](https://github.com/suvink)
