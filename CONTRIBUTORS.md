@@ -396,4 +396,4 @@
 #### Name:[Kartik Tyagi](https://github.com/genialkartik)
 - Place: Jalandhar, Punjab, India
 - Bio: Full Stack Developer.
-- GitHub: [Kartik Tyagi](https://github.com/genesisgabiola)
+- GitHub: [Kartik Tyagi](https://github.com/genialkartik)
