@@ -412,3 +412,8 @@
 - Place: Sri Lanka
 - Bio: Full Stack Developer, GCP fan.
 - GitHub: [Genesis Gabiola](https://github.com/suvink)
+
+#### Name: [Burak Uçar](https://github.com/burakuccc)
+- Place: City, State, Country
+- Bio: Going to be programmer
+- GitHub: [burakuccc](https://github.com/burakuccc)
