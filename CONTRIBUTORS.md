@@ -413,6 +413,11 @@
 - Bio: Full Stack Developer, GCP fan.
 - GitHub: [Genesis Gabiola](https://github.com/suvink)
 
+#### Name: [Rachit](https://github.com/rachitmanchanda)
+- Place: Rachit Manchanda
+- Bio: Python Developer
+- GitHub: [Rachit Manchanda](https://github.com/rachitmanchanda)
+
 #### Name: [Burak Uçar](https://github.com/burakuccc)
 - Place: City, State, Country
 - Bio: Going to be programmer
