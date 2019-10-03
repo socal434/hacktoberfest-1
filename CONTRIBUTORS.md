@@ -417,3 +417,8 @@
 - Place: Rachit Manchanda
 - Bio: Python Developer
 - GitHub: [Rachit Manchanda](https://github.com/rachitmanchanda)
+
+#### Name: [Burak Uçar](https://github.com/burakuccc)
+- Place: City, State, Country
+- Bio: Going to be programmer
+- GitHub: [burakuccc](https://github.com/burakuccc)
