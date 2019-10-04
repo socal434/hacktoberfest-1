@@ -18,7 +18,7 @@
 - Bio: I'm an Engineering student and loves to code.
 - Github [vibhor98](https://github.com/vibhor98)
 
-#### Name: [Herman](https://0dayherman.ooo)
+#### Name: [Herman](https://0xdaysec.com)
 - Place: Indonesia
 - Bio: One mistake can make you crazy.
 - GitHub: [0dayherman](https://github.com/0dayherman)
