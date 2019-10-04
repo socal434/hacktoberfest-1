@@ -422,3 +422,8 @@
 - Place: City, State, Country
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
+
+#### Name: [Maria Puji](https://github.com/mariapujirahayu)
+- Place: Surabaya, Indonesia
+- Bio: Student
+- Github: [Maria Puji](https://github.com/mariapujirahayu)
