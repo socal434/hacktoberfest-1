@@ -3,6 +3,11 @@
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
 
+#### Name: [Ananyan Xess](https://github.com/Ananyan25)
+- Place: Bhubaneswar,India
+- Bio: I am cse undergraduate pursuing in 3rd year.
+- github: [Ananyan25](https://github.com/Ananyan25)
+
 #### Name: [Egi Nugraha](https://eginugraha.com/)
 - Place: Bandung, Indonesia
 - Bio: i love code and design, thanks..
@@ -18,7 +23,7 @@
 - Bio: I'm an Engineering student and loves to code.
 - Github [vibhor98](https://github.com/vibhor98)
 
-#### Name: [Herman](https://0dayherman.ooo)
+#### Name: [Herman](https://0xdaysec.com)
 - Place: Indonesia
 - Bio: One mistake can make you crazy.
 - GitHub: [0dayherman](https://github.com/0dayherman)
@@ -345,7 +350,7 @@
 
 #### Name: [Drew Ku](https://github.com/Drookoo)
 - Place: New York, USA
-- Bio: Student 
+- Bio: Student
 - Github: [Drookoo](https://github.com/Drookoo)
 
 #### Name: [Passawat Noraman](https://github.com/tmteamz)
@@ -427,3 +432,28 @@
 - Place: Jalandhar,India
 - Bio: Python Developer, AI and ML enthusiast
 - GitHub: [Aman Soni](https://github.com/computerwala)
+
+#### Name: [DTharaka](https://github.com/DTharaka)
+- Place: Sri Lanka
+- Bio: Going to be programmer
+- GitHub: [DTharaka](https://github.com/DTharaka)
+
+#### Name : [Ravi K Thella]
+- Place : USA
+- Bio: Software Engineer
+- Github:[ravikishorethella](https://github.com/ravikishorethella)
+
+#### Name: [Maria Puji](https://github.com/mariapujirahayu)
+- Place: Surabaya, Indonesia
+- Bio: Student
+- Github: [Maria Puji](https://github.com/mariapujirahayu)
+
+### Name: [Guido Sanchez](https://github.com/Guido2k)
+- Place: Canada
+- Bio: Programmer
+- GitHub: [Guido2k](https://github.com/Guido2k)
+
+#### Name: [Hidde IJzerman](https://github.com/Hidduh)
+- Place: The Netherlands
+- Bio: Student Software Engineering, loves front-end
+- GitHub: [Hidduh](https://github.com/Hidduh)
