@@ -422,3 +422,8 @@
 - Place: City, State, Country
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
+
+#### Name: [Hidde IJzerman](https://github.com/Hidduh)
+- Place: The Netherlands
+- Bio: Student Software Engineering, loves front-end
+- GitHub: [Hidduh](https://github.com/Hidduh)
