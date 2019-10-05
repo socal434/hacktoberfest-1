@@ -427,3 +427,8 @@
 - Place: Canada
 - Bio: Programmer
 - GitHub: [Guido2k](https://github.com/Guido2k)
+
+#### Name: [Hidde IJzerman](https://github.com/Hidduh)
+- Place: The Netherlands
+- Bio: Student Software Engineering, loves front-end
+- GitHub: [Hidduh](https://github.com/Hidduh)
