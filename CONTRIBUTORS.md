@@ -428,6 +428,11 @@
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
 
+#### Name : [Ravi K Thella]
+- Place : USA
+- Bio: Software Engineer
+- Github:[ravikishorethella](https://github.com/ravikishorethella)
+
 #### Name: [Maria Puji](https://github.com/mariapujirahayu)
 - Place: Surabaya, Indonesia
 - Bio: Student
