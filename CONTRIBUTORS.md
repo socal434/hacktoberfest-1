@@ -3,6 +3,11 @@
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
 
+#### Name: [Ananyan Xess](https://github.com/Ananyan25)
+- Place: Bhubaneswar,India
+- Bio: I am cse undergraduate pursuing in 3rd year.
+- github: [Ananyan25](https://github.com/Ananyan25)
+
 #### Name: [Egi Nugraha](https://eginugraha.com/)
 - Place: Bandung, Indonesia
 - Bio: i love code and design, thanks..
