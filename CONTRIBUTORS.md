@@ -428,6 +428,11 @@
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
 
+#### Name: [DTharaka](https://github.com/DTharaka)
+- Place: Sri Lanka
+- Bio: Going to be programmer
+- GitHub: [DTharaka](https://github.com/DTharaka)
+
 #### Name : [Ravi K Thella]
 - Place : USA
 - Bio: Software Engineer
