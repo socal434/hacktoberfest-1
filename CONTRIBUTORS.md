@@ -428,6 +428,11 @@
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
 
+#### Name: [Aman Soni](https://github.com/computerwala)
+- Place: Jalandhar,India
+- Bio: Python Developer, AI and ML enthusiast
+- GitHub: [Aman Soni](https://github.com/computerwala)
+
 #### Name: [DTharaka](https://github.com/DTharaka)
 - Place: Sri Lanka
 - Bio: Going to be programmer
