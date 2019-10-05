@@ -345,7 +345,7 @@
 
 #### Name: [Drew Ku](https://github.com/Drookoo)
 - Place: New York, USA
-- Bio: Student 
+- Bio: Student
 - Github: [Drookoo](https://github.com/Drookoo)
 
 #### Name: [Passawat Noraman](https://github.com/tmteamz)
@@ -422,6 +422,11 @@
 - Place: City, State, Country
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
+
+### Name: [Guido Sanchez](https://github.com/Guido2k)
+- Place: Canada
+- Bio: Programmer
+- GitHub: [Guido2k](https://github.com/Guido2k)
 
 #### Name: [Hidde IJzerman](https://github.com/Hidduh)
 - Place: The Netherlands
