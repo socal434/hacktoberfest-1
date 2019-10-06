@@ -457,3 +457,8 @@
 - Place: The Netherlands
 - Bio: Student Software Engineering, loves front-end
 - GitHub: [Hidduh](https://github.com/Hidduh)
+
+#### Name: [Jahnvi Gupta](https://github.com/jahnvigupta)
+- Place: India
+- Bio: Student Computer Science
+- GitHub: [jahnvigupta](https://github.com/jahnvigupta)
