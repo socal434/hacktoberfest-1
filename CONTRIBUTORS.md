@@ -550,6 +550,12 @@
 - Bio: Student Software Engineering, loves front-end
 - GitHub: [Hidduh](https://github.com/Hidduh)
 
+#### Name: [Keith Alleman](https://github.com/armoredElephant)
+
+- Place: Colorado Springs, CO USA
+- Bio: Desktop Engineer, self-learning to code.
+- GitHub: [armoredElephant](https://github.com/armoredElephant)
+
 #### Name: [Bhupesh](https://github.com/bhupeshk3014)
 
 - Place: New Delhi, India
