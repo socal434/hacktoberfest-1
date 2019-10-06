@@ -462,3 +462,9 @@
 - Place: Germany
 - Bio: Over 40 years old, and resently startet to study computer Science
 - GitHub: [115upm](https://github.com/115upm)
+
+#### Name: [Jahnvi Gupta](https://github.com/jahnvigupta)
+- Place: India
+- Bio: Student Computer Science
+- GitHub: [jahnvigupta](https://github.com/jahnvigupta)
+
