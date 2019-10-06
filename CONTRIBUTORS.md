@@ -555,3 +555,15 @@
 - Place: New Delhi, India
 - Bio: Full Stack Developer
 - Github: [bhupeshk3014](https://github.com/bhupeshk3014)
+
+#### Name: [115upm](https://github.com/115upm)
+
+- Place: Germany
+- Bio: Over 40 years old, and resently startet to study computer Science
+- GitHub: [115upm](https://github.com/115upm)
+
+#### Name: [Jahnvi Gupta](https://github.com/jahnvigupta)
+
+- Place: India
+- Bio: Student Computer Science
+- GitHub: [jahnvigupta](https://github.com/jahnvigupta)
