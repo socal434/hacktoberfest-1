@@ -573,3 +573,9 @@
 - Place: India
 - Bio: Student Computer Science
 - GitHub: [jahnvigupta](https://github.com/jahnvigupta)
+
+#### Name: [Oscar Lopez](https://github.com/oscar-dev19)
+
+- Place: California, US
+- Bio: Currently studying for my BS in Computer Science.
+- GitHub: [oscardev-19](https://github.com/oscardev-19)
