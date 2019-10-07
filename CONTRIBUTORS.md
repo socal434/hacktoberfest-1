@@ -10,6 +10,12 @@
 - Bio: I am cse undergraduate pursuing in 3rd year.
 - github: [Ananyan25](https://github.com/Ananyan25)
 
+#### Name: [udibro](https://github.com/udibro)
+
+- Place: India
+- Bio: student
+- github: [udibro](https://github.com/udibro)udibro
+
 #### Name: [Egi Nugraha](https://eginugraha.com/)
 
 - Place: Bandung, Indonesia
