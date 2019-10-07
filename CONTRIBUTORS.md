@@ -422,3 +422,10 @@
 - Place: City, State, Country
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
+
+
+#### Name: [Akassharjun Shanmugarajah](https://akassharjun.github.io/#/)
+
+- Place: Colombo, Sri Lanka
+- Bio: Flutter & Android Enthusiast, CS Undergraduate
+- GitHub: [akassharjun](https://github.com/akassharjun)
