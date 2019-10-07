@@ -574,6 +574,12 @@
 - Bio: Student Computer Science
 - GitHub: [jahnvigupta](https://github.com/jahnvigupta)
 
+#### Name: [rocky](https://github.com/hackstar1)
+
+- Place: U.S.
+- Bio: - Engineer
+- GitHub: [hackstar1](https://github.com/hackstar1).
+
 #### Name: [Oscar Lopez](https://github.com/oscar-dev19)
 
 - Place: California, US
