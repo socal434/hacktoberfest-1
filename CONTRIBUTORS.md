@@ -579,3 +579,9 @@
 - Place: California, US
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
+
+#### Name: [alice-may](https://github.com/alice-may)
+
+- Place: New South Wales, Australia
+- Bio: Self Teaching myself front end development to start with.
+- GitHub: [alice-may](https://github.com/alice-may)
