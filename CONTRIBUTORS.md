@@ -579,3 +579,9 @@
 - Place: California, US
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
+
+#### Name: [Arturo Dangond](https://github.com/4rturd13)
+
+- Place: Colombia
+- Bio: [programming student](https://github.com/c0delatte).
+- GitHub: [4rturd13](https://github.com/4rturd13)
