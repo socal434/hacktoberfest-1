@@ -1,4 +1,4 @@
-#### Name: [Mukhammad Akbar](https://codelatte.org/)
+﻿#### Name: [Mukhammad Akbar](https://codelatte.org/)
 
 - Place: Indonesiea
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
@@ -579,3 +579,10 @@
 - Place: California, US
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
+
+### Name: [Andrew Hostetter](https://github.com/GeneralPlatypus)
+
+- Place: US
+- Bio: Currently studying for my BS in Cyber Sycurity.
+- GitHub: [GeneralPlatypus](https://github.com/GeneralPlatypus)
+
