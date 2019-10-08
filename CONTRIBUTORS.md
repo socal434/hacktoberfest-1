@@ -579,3 +579,9 @@
 - Place: California, US
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
+
+#### Name: [Robert Fridzema](https://github.com/fridzema)
+
+- Place: Rotterdam, Netherlands
+- Bio: Self taught fullstack webdeveloper
+- GitHub: [fridzema](https://github.com/fridzema)
