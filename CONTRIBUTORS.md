@@ -574,6 +574,12 @@
 - Bio: Student Computer Science
 - GitHub: [jahnvigupta](https://github.com/jahnvigupta)
 
+#### Name: [Alejandro García](https://github.com/OwboxAl3x)
+
+- Place: España
+- Bio: Web Developer
+- GitHub: [OwboxAl3x](https://github.com/OwboxAl3x)
+
 #### Name: [Oscar Lopez](https://github.com/oscar-dev19)
 
 - Place: California, US
