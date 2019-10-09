@@ -4,11 +4,29 @@
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
 
+#### Name: [varun-coder](https://github.com/varun-coder)
+
+- Place: India
+- Bio: nothing
+- github: [varun-coder](https://github.com/varun-coder)
+
+#### Name: [taruncode](https://github.com/taruncode)
+
+- Place: Russia
+- Bio: Analysis.
+- Github: [taruncode(https://github.com/taruncode)
+
 #### Name: [Ananyan Xess](https://github.com/Ananyan25)
 
 - Place: Bhubaneswar,India
 - Bio: I am cse undergraduate pursuing in 3rd year.
 - github: [Ananyan25](https://github.com/Ananyan25)
+
+#### Name: [udibro](https://github.com/udibro)
+
+- Place: India
+- Bio: student
+- github: [udibro](https://github.com/udibro)udibro
 
 #### Name: [Egi Nugraha](https://eginugraha.com/)
 
@@ -39,6 +57,12 @@
 - Place: India
 - Bio: Aspiring Coder.
 - GitHub: [pb-10](https://github.com/pb-10)
+
+#### Name: [varuncoc](https://github.com/varuncoc)
+
+- Place: India
+- Bio: Coder.
+- GitHub: [varuncoc](https://github.com/varuncoc)
 
 #### Name: [I Kadek Mahardika](https://github.com/kadekmahardika)
 
@@ -213,6 +237,12 @@
 - Place: Bangkok Thailand
 - Bio: Front-end web developer
 - Github: [thepriefy](https://github.com/thepriefy)
+
+#### Name: [codestien](https://github.com/codstien)
+
+- Place: Russia
+- Bio: programmer
+- Github: [codstien](https://github.com/codstien)
 
 #### Name: [aidakarimova](https://github.com/aidakarimova)
 
@@ -514,6 +544,12 @@
 - Bio: Going to be programmer
 - GitHub: [burakuccc](https://github.com/burakuccc)
 
+#### Name: [Akassharjun Shanmugarajah](https://akassharjun.github.io/#/)
+
+- Place: Colombo, Sri Lanka
+- Bio: Flutter & Android Enthusiast, CS Undergraduate
+- GitHub: [akassharjun](https://github.com/akassharjun)
+
 #### Name: [Aman Soni](https://github.com/computerwala)
 
 - Place: Jalandhar,India
@@ -568,11 +604,23 @@
 - Bio: Over 40 years old, and resently startet to study computer Science
 - GitHub: [115upm](https://github.com/115upm)
 
+#### Name: [archana](https://github.com/archanacoder)
+
+- Place: India
+- Bio: -
+- GitHub: [archanacoder](https://github.com/archanacoder).
+
 #### Name: [Jahnvi Gupta](https://github.com/jahnvigupta)
 
 - Place: India
 - Bio: Student Computer Science
 - GitHub: [jahnvigupta](https://github.com/jahnvigupta)
+
+#### Name: [rocky](https://github.com/hackstar1)
+
+- Place: U.S.
+- Bio: - Engineer
+- GitHub: [hackstar1](https://github.com/hackstar1).
 
 #### Name: [Oscar Lopez](https://github.com/oscar-dev19)
 
@@ -585,3 +633,27 @@
 - Place: Colombia
 - Bio: [programming student](https://github.com/c0delatte).
 - GitHub: [4rturd13](https://github.com/4rturd13)
+
+#### Name: [codekingdroid](https://github.com/codekingdroid)
+
+- Place: U.S.
+- Bio: - student
+- GitHub: [codekingdroid](https://github.com/codekingdroid).
+
+#### Name: [pratee](https://github.com/prateekyo)
+
+- Place: India
+- Bio: - Teacher
+- GitHub: [prateekyo](https://github.com/prateekyo).
+
+#### Name: [Codestein](https://github.com/codestein)
+
+- Place: U.S.
+- Bio: - Student
+- GitHub: [codestein](https://github.com/codestein).
+
+#### Name: [alice-may](https://github.com/alice-may)
+
+- Place: New South Wales, Australia
+- Bio: Self Teaching myself front end development to start with.
+- GitHub: [alice-may](https://github.com/alice-may)
