@@ -585,3 +585,15 @@
 - Place: India
 - Bio: - Teacher
 - GitHub: [prateekyo](https://github.com/prateekyo).
+
+#### Name: [Codestein](https://github.com/codestein)
+
+- Place: U.S.
+- Bio: - Student
+- GitHub: [codestein](https://github.com/codestein).
+
+#### Name: [alice-may](https://github.com/alice-may)
+
+- Place: New South Wales, Australia
+- Bio: Self Teaching myself front end development to start with.
+- GitHub: [alice-may](https://github.com/alice-may)
