@@ -214,6 +214,12 @@
 - Bio: Front-end web developer
 - Github: [thepriefy](https://github.com/thepriefy)
 
+#### Name: [codestien](https://github.com/codstien)
+
+- Place: Russia
+- Bio: programmer
+- Github: [codstien](https://github.com/codstien)
+
 #### Name: [aidakarimova](https://github.com/aidakarimova)
 
 - Place: Russia Kazan
