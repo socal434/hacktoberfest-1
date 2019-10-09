@@ -580,6 +580,13 @@
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
 
+
+#### Name: [Codestein](https://github.com/codestein)
+
+- Place: U.S.
+- Bio: - Student
+- GitHub: [codestein](https://github.com/codestein).
+
 #### Name: [alice-may](https://github.com/alice-may)
 
 - Place: New South Wales, Australia
