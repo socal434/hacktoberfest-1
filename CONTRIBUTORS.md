@@ -568,6 +568,12 @@
 - Bio: Over 40 years old, and resently startet to study computer Science
 - GitHub: [115upm](https://github.com/115upm)
 
+#### Name: [archana](https://github.com/archanacoder)
+
+- Place: India
+- Bio: -
+- GitHub: [archanacoder](https://github.com/archanacoder).
+
 #### Name: [Jahnvi Gupta](https://github.com/jahnvigupta)
 
 - Place: India
@@ -585,3 +591,21 @@
 - Place: U.S.
 - Bio: - student
 - GitHub: [codekingdroid](https://github.com/codekingdroid).
+
+#### Name: [pratee](https://github.com/prateekyo)
+
+- Place: India
+- Bio: - Teacher
+- GitHub: [prateekyo](https://github.com/prateekyo).
+
+#### Name: [Codestein](https://github.com/codestein)
+
+- Place: U.S.
+- Bio: - Student
+- GitHub: [codestein](https://github.com/codestein).
+
+#### Name: [alice-may](https://github.com/alice-may)
+
+- Place: New South Wales, Australia
+- Bio: Self Teaching myself front end development to start with.
+- GitHub: [alice-may](https://github.com/alice-may)
