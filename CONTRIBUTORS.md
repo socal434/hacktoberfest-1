@@ -1,3 +1,9 @@
+#### Name: [Sneha Omer](https://github.com/sassyec0der)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I love to create techie things like web, design etc.
+- GitHub: [sassyec0der](https://github.com/sassyec0der)
+
 #### Name: [Mukhammad Akbar](https://codelatte.org/)
 
 - Place: Indonesiea
