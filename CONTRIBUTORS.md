@@ -1,14 +1,14 @@
-#### Name: [Sneha Omer](https://github.com/sassyec0der)
-
-- Place: Kanpur, Uttar Pradesh, India
-- Bio: I love to create techie things like web, design etc.
-- GitHub: [sassyec0der](https://github.com/sassyec0der)
-
 #### Name: [Mukhammad Akbar](https://codelatte.org/)
 
 - Place: Indonesiea
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
+
+#### Name: [Sneha Omer](https://github.com/sassyec0der)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: I love to create techie things like web, design etc.
+- GitHub: [sassyec0der](https://github.com/sassyec0der)
 
 #### Name: [varun-coder](https://github.com/varun-coder)
 
@@ -640,6 +640,13 @@
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
 
+### Name: [Andrew Hostetter](https://github.com/GeneralPlatypus)
+
+- Place: US
+- Bio: Currently studying for my BS in Cyber Sycurity.
+- GitHub: [GeneralPlatypus](https://github.com/GeneralPlatypus)
+
+=======
 #### Name: [Yudha Pratama](https://github.com/kudkud32)
 
 - Place: Yogyakarta, Indonesia
