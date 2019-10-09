@@ -586,6 +586,12 @@
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
 
+#### Name: [codekingdroid](https://github.com/codekingdroid)
+
+- Place: U.S.
+- Bio: - student
+- GitHub: [codekingdroid](https://github.com/codekingdroid).
+
 #### Name: [pratee](https://github.com/prateekyo)
 
 - Place: India
