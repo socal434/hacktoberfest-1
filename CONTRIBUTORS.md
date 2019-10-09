@@ -622,6 +622,12 @@
 - Bio: Student Computer Science
 - GitHub: [jahnvigupta](https://github.com/jahnvigupta)
 
+#### Name: [Alejandro García](https://github.com/OwboxAl3x)
+
+- Place: España
+- Bio: Web Developer
+- GitHub: [OwboxAl3x](https://github.com/OwboxAl3x)
+
 #### Name: [rocky](https://github.com/hackstar1)
 
 - Place: U.S.
