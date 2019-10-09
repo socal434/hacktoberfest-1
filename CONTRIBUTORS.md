@@ -634,6 +634,12 @@
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
 
+#### Name: [Yudha Pratama](https://github.com/kudkud32)
+
+- Place: Yogyakarta, Indonesia
+- Bio: Just an Android Developer
+- GitHub: [kudkud32](https://github.com/kudkud32)
+
 #### Name: [Robert Fridzema](https://github.com/fridzema)
 
 - Place: Rotterdam, Netherlands
