@@ -580,6 +580,11 @@
 - Bio: Currently studying for my BS in Computer Science.
 - GitHub: [oscardev-19](https://github.com/oscardev-19)
 
+#### Name: [pratee](https://github.com/prateekyo)
+
+- Place: India
+- Bio: - Teacher
+- GitHub: [prateekyo](https://github.com/prateekyo).
 
 #### Name: [Codestein](https://github.com/codestein)
 
