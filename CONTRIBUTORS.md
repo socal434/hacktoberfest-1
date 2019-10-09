@@ -4,6 +4,12 @@
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
 - GitHub: [Abay](https://github.com/abaykan)
 
+#### Name: [taruncode](https://github.com/taruncode)
+
+- Place: Russia
+- Bio: Analysis.
+- Github: [taruncode(https://github.com/taruncode)
+
 #### Name: [Ananyan Xess](https://github.com/Ananyan25)
 
 - Place: Bhubaneswar,India
