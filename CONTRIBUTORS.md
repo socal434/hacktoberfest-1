@@ -700,6 +700,12 @@
 - Bio: - Student
 - Github: [subhamagrawal7](https://github.com/subhamagrawal7)
 
+#### Name: [Kasun](https://github.com/KasunHasanga)
+
+- Place: Sri lanka
+- Bio: One mistake can make you crazy.
+- GitHub: [0dayherman](https://github.com/KasunHasanga)
+
 #### Name: [Jordy Araujo](https://github.com/jordyaraujo)
 - Place: Natal-RN, Brazil
 - Bio: - Student
