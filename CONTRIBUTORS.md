@@ -699,3 +699,8 @@
 - Place: Surat, Gujarat, India
 - Bio: - Student
 - Github: [subhamagrawal7](https://github.com/subhamagrawal7)
+
+#### Name: [Jordy Araujo](https://github.com/jordyaraujo)
+- Place: Natal-RN, Brazil
+- Bio: - Student
+- Github: [JordyAraujo](https://github.com/jordyaraujo)
