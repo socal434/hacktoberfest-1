@@ -704,3 +704,14 @@
 - Place: Indore, MP, India
 - Bio: - ML Intern at Hotwax systems.
 - Github: [manasbichoo](https://github.com/manasbichoo)
+
+#### Name: [Kasun](https://github.com/KasunHasanga)
+
+- Place: Sri lanka
+- Bio: One mistake can make you crazy.
+- GitHub: [0dayherman](https://github.com/KasunHasanga)
+
+#### Name: [Jordy Araujo](https://github.com/jordyaraujo)
+- Place: Natal-RN, Brazil
+- Bio: - Student
+- Github: [JordyAraujo](https://github.com/jordyaraujo)
