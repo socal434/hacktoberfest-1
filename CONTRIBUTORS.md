@@ -700,6 +700,11 @@
 - Bio: - Student
 - Github: [subhamagrawal7](https://github.com/subhamagrawal7)
 
+#### Name: [Manas Bichoo](https://github.com/manasbichoo)
+- Place: Indore, MP, India
+- Bio: - ML Intern at Hotwax systems.
+- Github: [manasbichoo](https://github.com/manasbichoo)
+
 #### Name: [Kasun](https://github.com/KasunHasanga)
 
 - Place: Sri lanka
