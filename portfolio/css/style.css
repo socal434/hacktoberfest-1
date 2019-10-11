@@ -1,0 +1,9 @@
+.jumbotron img {
+    width: 180px;
+    border: 10px solid #000000;
+}
+
+.about hr {
+    width: 250px;
+    border-top: solid #000000;
+}
