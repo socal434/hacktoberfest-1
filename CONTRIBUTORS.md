@@ -731,3 +731,8 @@
 - Place: Lajpat Nagar ,Delhi ,India
 - Bio: - Student
 - Github: [shubhamvrm](https://github.com/shubhamvrm)
+
+#### Name: [Chance Hope](https://github.com/socal434)
+- Place: Kaiserslautern, Rhineland Pfalz, Germany
+- Bio: EE Student
+- GitHub: [Socal434](https://github.com/socal434)
